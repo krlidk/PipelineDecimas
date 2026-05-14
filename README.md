@@ -52,7 +52,7 @@ Para garantizar que los datos sean realistas, se aplican las siguientes reglas:
 1.  Asegúrate de tener el archivo `genz_social_media_usage_1M.csv` en la raíz del proyecto.
 2.  Instala las dependencias:
     ```bash
-    pip install pandas numpy
+    pip install pandas numpy supabase
     ```
 3.  Ejecuta el script:
     ```bash
