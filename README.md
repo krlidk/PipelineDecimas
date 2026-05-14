@@ -2,6 +2,9 @@
 
 Este repositorio contiene un script de Python diseñado para la **ingesta, limpieza, transformación y validación** de un dataset masivo (1M de registros) sobre el uso de redes sociales en la Generación Z. El objetivo es garantizar la integridad de los datos para análisis estadísticos o modelos de Machine Learning.
 
+Link dataset:
+https://www.kaggle.com/datasets/sharmajicoder/gen-z-social-media-usage-dataset?resource=download
+
 ## 📊 Sobre el Dataset Original
 
 El archivo `genz_social_media_usage_1M.csv` contiene las siguientes variables críticas:
